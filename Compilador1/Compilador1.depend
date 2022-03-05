@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1646448021 source:d:\inco\6to semestre\seminario de traductores de lenguaje ii\compilador1\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	"lexico.h"
+	"lista_tokens.h"
+	"sintactico.h"
+	"reglas.h"
+
+1646439431 d:\inco\6to semestre\seminario de traductores de lenguaje ii\compilador1\lexico.h
+	"lista_tokens.h"
+	"tokens.h"
+
+1646439404 d:\inco\6to semestre\seminario de traductores de lenguaje ii\compilador1\lista_tokens.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<cstring>
+	"nodo.h"
+
+1646439366 d:\inco\6to semestre\seminario de traductores de lenguaje ii\compilador1\nodo.h
+	<iostream>
+	"tokens.h"
+
+1646439013 d:\inco\6to semestre\seminario de traductores de lenguaje ii\compilador1\tokens.h
+	<iostream>
+
+1646448357 d:\inco\6to semestre\seminario de traductores de lenguaje ii\compilador1\sintactico.h
+	<iostream>
+	<fstream>
+	"pila.h"
+	"lista_tokens.h"
+	"reglas.h"
+
+1646441339 d:\inco\6to semestre\seminario de traductores de lenguaje ii\compilador1\pila.h
+	<list>
+	<iostream>
+	<string>
+
+1646439122 d:\inco\6to semestre\seminario de traductores de lenguaje ii\compilador1\reglas.h
+	<iostream>
+	<sstream>
+	<fstream>
+	"pila.h"
+	"simbolo.h"
+
+1646439068 d:\inco\6to semestre\seminario de traductores de lenguaje ii\compilador1\simbolo.h
+	<iostream>
+
